@@ -1,2 +1,2 @@
-# Python-final-project  
+# Python. Final project.  
 HELLO THERE MATE
